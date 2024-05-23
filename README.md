@@ -1,8 +1,8 @@
 # Tech Challenge Fase 1 - Grupo 14
-Daniel Gurgel figueiredo Suárez - RM354088
-Marcelo Henriques da Fonseca - RM353865
-Marcos Lopes da Silva Junior - RM353763
-Ricardo Báfica Pontes - RM353866
+- Daniel Gurgel figueiredo Suárez - RM354088
+- Marcelo Henriques da Fonseca - RM353865
+- Marcos Lopes da Silva Junior - RM353763
+- Ricardo Báfica Pontes - RM353866
 
 Link para o vídeo mostrando o projeto: https://youtu.be/rz1pWZPNQt8
 
